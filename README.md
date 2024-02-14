@@ -15,4 +15,4 @@
   #go to "file">"settings"
    #navigate to version control"version control"> "github"
   #click on "+" button to add github account
-  #enter github credentials and press "login"
+  #enter github credentials and press "login" 
