@@ -1,0 +1,12 @@
+#Branch: A parallel line of development that allows you to work on features, fixes, or experiments independent of the main codebase.
+#Clone: The process of creating a local copy of a remote repository.
+#Commit:  A snapshot of changes made to the files in a repository at a specific point in time.
+#Fetch: Retrieves new changes from a remote repository but does not integrate them into your local branch.
+#GIT: A distributed version control system widely used for tracking changes in source code during software development.
+#Github: A web-based platform and service that provides hosting for Git repositories.
+#Merge: The process of combining the changes from one branch into another branch.
+#Merge Conflict: When the changes made in two different branches cannot be automatically merged by the system.
+#Push: Operation of sending committed changes from a local repository to a remote repository.
+#Pull: Operation of fetching changes from a remote repository and integrating them into your local repository.
+#Remote: Repository hosted on a separate server, typically accessed over a network.
+#Repository:  A storage location where a project's files and version history are stored.
